@@ -1,1 +1,1 @@
-HI
+console.log("Welcome to my portfolio website! 🚀");
